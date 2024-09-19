@@ -28,4 +28,4 @@ maekdowm 이란?
 
  [고려대학교](https://www.korea.ac.kr/index.jsp, "고려대학교 홈페이지입니다.")
 
- ![이미지](./이미지파일경로)
+![링크텍스트](./https://github.com/ayeonyumyum/markdown-/blob/main/images--.png)
