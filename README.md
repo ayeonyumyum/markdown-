@@ -27,3 +27,5 @@ maekdowm 이란?
  `코드`
 
  [고려대학교](https://www.korea.ac.kr/index.jsp, "고려대학교 홈페이지입니다.")
+
+ ![이미지](./이미지파일경로)
